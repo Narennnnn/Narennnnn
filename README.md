@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Your Name], a passionate developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 ### Connect with me 💬
 You can find me on [LinkedIn](https://www.linkedin.com/in/narendra-maurya-01/) and [Twitter](https://twitter.com/devNarendraa), where I share my thoughts, projects, and more. Let's connect!
