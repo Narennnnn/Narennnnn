@@ -45,6 +45,8 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mauryanarendra2003@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/devNarendraa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-maurya-01/)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/curious_geeks)
+
 
 
 Thanks for visiting my profile! If you have any questions or just want to say hi, feel free to reach out.
