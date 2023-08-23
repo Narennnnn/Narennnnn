@@ -33,6 +33,7 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
      [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
      [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
      [![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+      [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 
 #### 📊 GitHub Analytics
 
