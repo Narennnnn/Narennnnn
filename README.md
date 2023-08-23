@@ -32,6 +32,7 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
     [![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
      [![WSL](https://img.shields.io/badge/WSL-000000.svg?&style=flat&logo=ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
      [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+     [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF1493.svg?&style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
      [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
      [![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
       [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
