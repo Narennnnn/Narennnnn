@@ -28,6 +28,7 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
      [![Lucide](https://img.shields.io/badge/-Lucide-FF7A02?style=flat-square&logo=lucide&logoColor=white)](#) 
      [![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-FFA611?style=flat-square&logo=firebase&logoColor=black)](#) 
      [![Fetch API](https://img.shields.io/badge/-Fetch%20API-009688?style=flat-square&logo=fetchapi&logoColor=white)](#) 
+     [![WebSocket](https://img.shields.io/badge/-WebSocket-0052cc?style=flat-square)](#)
      [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#) 
      [![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
      [![WSL](https://img.shields.io/badge/WSL-000000.svg?&style=flat&logo=ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
