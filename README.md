@@ -41,10 +41,9 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
 
 #### 📊 GitHub Analytics
 
-<div align="center" >
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Narennnnn&show_icons=true&theme=algolia"> <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narennnnn&layout=compact&theme=algolia">
-</div> 
-<br>
+[![stats](https://github-readme-stats.vercel.app/api?username=Narennnnn&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/Narennnnn)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narennnnn&layout=compact&theme=gotham&border_color=2e3440&card_width=250)](https://github.com/Narennnnn)
+
 
 
 
