@@ -63,6 +63,6 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
 Thanks for visiting my profile! If you have any questions or just want to say hi, feel free to reach out.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Narennnnn&color=black)
+![](https://komarev.com/ghpvc/?username=Narennnnn&color=yellow)
 
 Happy coding! 🚀 
