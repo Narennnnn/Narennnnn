@@ -35,7 +35,6 @@ I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome t
 [![WSL](https://img.shields.io/badge/WSL-000000.svg?style=flat&logo=ubuntu&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF1493.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Websockets](https://img.shields.io/badge/Websockets-00ADEF.svg?style=flat&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
