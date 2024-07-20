@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Narendra Maurya, a passionate developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+I'm Narendra Maurya, a passionate backend developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 #### ⚡ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
