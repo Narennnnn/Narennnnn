@@ -13,6 +13,8 @@ I'm Narendra Maurya, a passionate backend developer and technology enthusiast. W
 [![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
 [![Websockets](https://img.shields.io/badge/Websockets-00ADEF.svg?style=flat&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFDD00?style=flat&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+
 
 
 #### 📊 GitHub Analytics
