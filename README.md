@@ -3,6 +3,7 @@
 I'm Narendra Maurya, a passionate backend developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 #### ⚡ Tech Stack
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](#)
