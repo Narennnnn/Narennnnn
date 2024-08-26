@@ -19,7 +19,7 @@ I'm Narendra Maurya, a passionate backend developer and technology enthusiast. W
 #### 📊 GitHub Analytics
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Narennnnn&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/Narennnnn)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narennnnn&layout=compact&theme=gotham&border_color=2e3440&card_width=250)](https://github.com/Narennnnn)
+
 
 
 
