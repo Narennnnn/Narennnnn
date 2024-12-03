@@ -19,21 +19,11 @@ I'm Narendra Maurya, a passionate backend developer and technology enthusiast. W
 
 
 
-#### 📊 GitHub Analytics
-
-[![stats](https://github-readme-stats.vercel.app/api?username=Narennnnn&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/Narennnnn)
-
-
-
-
-
 
 #### 📱 Connect with Me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nmaurya.engineer@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/devNarendraa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-maurya-01/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@narendramauryaa)
 
 
 
