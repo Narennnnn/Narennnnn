@@ -2,6 +2,18 @@
 
 I'm Narendra Maurya, a passionate backend developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
+things to do in (January 2025 - June 2025) :- 
+- contribute to open source
+- Put my heart & soul for the Orgs I will be working
+- read more in depth & publish few good blogs 
+- build some cool stuff (that's in my blood)
+- foucs on physical fitness (on going)
+- get gadgets with own money
+- travel more (detox)
+- Attend RCB match live(dream kinda thing)
+- connect with bright minds
+- try to find a partner for long term(hardest but going good) 
+
 #### ⚡ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
@@ -20,7 +32,7 @@ I'm Narendra Maurya, a passionate backend developer and technology enthusiast. W
 
 
 
-#### 📱 Connect with Me
+####  Connect with Me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nmaurya.engineer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-maurya-01/)
