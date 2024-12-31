@@ -10,6 +10,7 @@ things to do in (January 2025 - June 2025) :-
 - foucs on physical fitness (on going)
 - get gadgets with own money
 - travel more (detox)
+- become knight on LC
 - Attend RCB match live(dream kinda thing)
 - connect with bright minds
 - try to find a partner for long term(hardest but going good) 
