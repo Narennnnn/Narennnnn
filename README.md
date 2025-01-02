@@ -13,7 +13,7 @@ things to do in (January 2025 - June 2025) :-
 - become knight on LC
 - Attend RCB match live(dream kinda thing)
 - connect with bright minds
-- try to find a partner for long term(hardest but going good) 
+
 
 #### ⚡ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
