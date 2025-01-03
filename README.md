@@ -4,7 +4,6 @@ I'm Narendra Maurya, a passionate backend developer and technology enthusiast. W
 
 things to do in (January 2025 - June 2025) :- 
 - contribute to open source
-- Put my heart & soul for the Orgs I will be working
 - read more in depth & publish few good blogs 
 - build some cool stuff (that's in my blood)
 - foucs on physical fitness (on going)
