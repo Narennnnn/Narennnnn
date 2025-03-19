@@ -2,18 +2,6 @@
 
 I'm Narendra Maurya, a passionate backend developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
-things to do in (January 2025 - June 2025) :- 
-- contribute to open source
-- read more in depth & publish few good blogs 
-- build some cool stuff (that's in my blood)
-- foucs on physical fitness (on going)
-- get gadgets with own money
-- travel more (detox)
-- become knight on LC
-- Attend RCB match live(dream kinda thing)
-- connect with bright minds
-
-
 #### ⚡ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
