@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Narendra Maurya, a passionate backend developer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+I'm Narendra Maurya, a passionate engineer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 📍 SDE at Reewild
 
