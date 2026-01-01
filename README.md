@@ -20,6 +20,8 @@ I'm Narendra Maurya, a passionate engineer and technology enthusiast. Welcome to
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white)](https://learn.microsoft.com/azure/azure-functions/)
+
 
 
 
