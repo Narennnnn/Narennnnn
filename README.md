@@ -43,4 +43,4 @@ Thanks for visiting my profile! If you have any questions or just want to say hi
 
 ![](https://komarev.com/ghpvc/?username=Narennnnn&color=yellow)
 
-Happy coding! 🚀 
+_programming is 90% thinking and 10% typing_
