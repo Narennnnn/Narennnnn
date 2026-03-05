@@ -43,4 +43,3 @@ Thanks for visiting my profile! If you have any questions or just want to say hi
 
 ![](https://komarev.com/ghpvc/?username=Narennnnn&color=yellow)
 
-_working towards becoming the kind of developer who understands fundamentals, architects systems well, and knows how to orchestrate agents in a most efficient way._
