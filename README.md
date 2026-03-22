@@ -2,7 +2,7 @@
 
 I'm Narendra Maurya, a passionate engineer and technology enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
-📍 SDE at Reewild
+📍 SDE at Vela(formerly Reewild)
 
 #### ⚡ Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
